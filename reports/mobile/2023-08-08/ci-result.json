@@ -1,0 +1,802 @@
+[
+  {
+    "path": "/",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/careers-at-gsa/how-to-apply",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/careers-at-gsa/where-are-our-jobs",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/careers-at-gsa/who-are-we-seeking",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/careers-at-gsa/who-are-we-seeking/students-and-recent-grads",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/contact-us",
+    "score": 0.88
+  },
+  {
+    "path": "/about-us/contact-us/area-property-officers",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/contact-us/congressional-services-rep",
+    "score": 0.89
+  },
+  {
+    "path": "/about-us/contact-us/historic-preservation",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/contact-us/real-estate-services",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/contact-us/transportation-delivery-and-relocation-solutions",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/events-and-training",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-events",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-events/gsa-participation-in-events/case-events",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-events/gsa-regions",
+    "score": 0.85
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/2023-fas-industry-partner-symposium",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/acquiring-it-solutions-resource-page",
+    "score": 0.88
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/archive-of-fast-2022-resources",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/build-a-futureready-workforce-resource-page",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/building-a-future-ready-government-resource-page",
+    "score": 0.85
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/emergency-preparedness-resource-page",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/acquisition-training-for-the-real-world",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/client-enrichment-series",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/contracts-acquisition-training",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/fleet-management-training",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/technology-management-training/gsas-digitalgov-university",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-vendors/how-to-get-on-schedule",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/mission-and-background/background",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/mission-and-background/gsas-role-in-presidential-transitions",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/mission-and-background/our-missions-evolution",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/examining-the-army-fee-assistance-program-part-ii-01062016",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/federal-triangle-south-redeveloping-underutilized-11192013",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/game-changers-artificial-intelligence-part-ii-artificial-intelligence-and-the-federal-government-03072018",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/progress-made-by-ssa-for-recovery-act-04282009",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/transfersdonations-of-fema-household-goods-07312008",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast",
+    "score": 0.89
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-1-civic-tech-05302023",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-2-technologists-in-action-06132023",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-3-gsa-and-small-business-contracting-06272023",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-4-green-proving-ground-07112023",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-5-the-future-workforce-07252023",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/learn-about-the-podcast",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-administrator-speaks-at-women-build-america-04042016",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-announces-list-of-sites-for-new-des-moines-fed-02062017",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-appoints-waldo-jaquith-senior-advisor-to-the-administrator-and-nathan-osburn-as-speechwriter-09142021",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-awards-138m-contract-for-design-of-a-new-land-port-of-entry-at-highgate-springs-vermont-funded-by-the-bidenharris-administrations-bipartisan-infrastructure-law-12122022",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-pilots-buy-clean-inflation-reduction-act-requirements-for-low-embodied-carbon-construction-materials-05162023",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/photo-galleries",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/newsroom/rss-feeds",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/speeches/remarks-at-ronald-reagan-building-and-internationa",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/administrator-carnahan-remarks-at-reservation-economic-summit-res-04032023",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/administrator-carnahans-remarks-as-prepared-for-north-americas-building-trades-unions-in-washington-dc-04262023",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/remarks-at-the-oklahoma-city-federal-building-ribb-05112023",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/remarks-by-gsa-administrator-robin-carnahan-to-grace-hopper-celebration-10012021",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/speech-on-smart-cities-counties-ii-beyond-the-hype-where-innovation-rules-by-denise-roth-03142016",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/newsroom/technology-blogs",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/customer-marketing-library-service-cmls",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/customer-service-directors",
+    "score": 0.9
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/market-research-as-a-service-mras",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/national-account-managers-nams",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/regional-customer-stakeholder-engagement-dirs",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/fall-2019-release",
+    "score": 0.89
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/fall-2021-release",
+    "score": 0.89
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/fmp-2020-retro",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/spring-2020-release",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release",
+    "score": 0.89
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release/fmp-strategy-summer-2019-release-highlights",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release/improvements-to-the-acquisition-workforce-experience",
+    "score": 0.91
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release/improvements-to-the-customer-experience",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release/improvements-to-the-supplier-experience",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/fmp-for-buyers",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/fmp-for-suppliers",
+    "score": 0.92
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/fmp-project-improvements",
+    "score": 0.81
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-leadership-team",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/office-of-general-supplies-and-services",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/18f",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/erulemaking",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/about-samgov",
+    "score": 0.89
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/information-about-fbo-transition",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/samgov-transition-to-betasamgov",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/uei-technical-specifications-and-api-information",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/unique-entity-id-is-here",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/unique-entity-identifier-update",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-modernization",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/the-iae-systems",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/the-centers-of-excellence",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-impact-summit",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-impact-summit/tts-impact-summit-resources-and-materials",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/leadership-directory",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/acting-chief-human-capital-officer",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/associate-administrator-office-of-mission-assuran",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/associate-administrator-osdbu",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/chief-of-staff",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/deputy-administrator",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/office-of-customer-experience",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/office-of-governmentwide-policy/office-of-the-procurement-ombudsman",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/office-of-human-resources-management",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/office-of-small-and-disadvantaged-business-utilization",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/office-of-the-administrator/administrator",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/office-of-the-administrator/past-administrators",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/office-of-the-chief-financial-officer",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/client-outreach",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/pbs-customer-dashboard",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/pbs-customer-forums",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/regional-client-solutions",
+    "score": 0
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-portfolio-management",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1/key-contacts",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1/leadership-biographies",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1/sustainability-in-action",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1/welcome-message",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/abraham-a-ribicoff-federal-building-and-us-cour",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/brien-mcmahon-federal-building-and-us-courthouse",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/richard-c-lee-courthouse",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/robert-n-giaimo-federal-building",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/william-r-cotter-federal-building",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/beebe-plain-land-port-of-entry-vermont",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/fort-fairfield-land-port-of-entry-maine",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/madawaska-me-land-port-of-entry",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/richford-land-port-of-entry-vermont",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/volpe-center",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine/edmund-s-muskie-federal-building",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine/edward-t-gignoux-us-courthouse",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine/margaret-chase-smith-federal-building-and-courthou",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine/us-custom-house-portland",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/captain-john-f-williams-coast-guard-building",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/harold-d-donohue-federal-building-and-us-courth",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/thomas-p-oneill-jr-federal-building",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/us-courthouse-springfield",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/us-custom-house-new-bedford",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/new-hampshire",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/new-hampshire/james-c-cleveland-federal-building-and-warren-b",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/new-hampshire/norris-cotton-federal-building",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/region-one-facilities-status",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/rhode-island",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/rhode-island/federal-building-and-courthouse-providence",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/rhode-island/john-o-pastore-post-office-and-federal-building",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/vermont",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/vermont/montpelier-federal-building-us-post-office-an",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/vermont/st-albans-federal-building-us-post-office-an",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/vermont/us-post-office-and-courthouse-burlington",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/products-and-services/client-engagement-division",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/products-and-services/emergency-management",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/products-and-services/national-lighthouse-preservation-act-nhlpa",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/products-and-services/office-of-real-property-disposition",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/products-and-services/real-estate-services",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/feature-stories",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/feature-stories/backfilling-a-vacant-warehouse-lease-saves-more-th-03092016",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/feature-stories/feds-feed-families-11082018",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/feature-stories/gsa-partners-with-atarc-for-virtual-summit-07162020",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/feature-stories/massachusetts-business-matchmaker-03262017",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/feature-stories/region-one-hosts-successful-fleet-customer-focus-group-event-08312022",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/press-releases",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/press-releases/gsa-auctioning-former-faa-radio-tower-site-in-plato-ellicottville-new-york-05052021",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/press-releases/gsa-awards-23m-construction-contract-to-upgrade-d-05092016",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/press-releases/gsa-awards-contract-for-environmental-assessment-as-part-of-highgate-springs-land-port-of-entry-project-09272022",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/press-releases/maine-residents-and-businesses-to-see-increased-project-activity-at-land-ports-of-entry-as-gsa-begins-complex-buildingmodernization-process-05042022",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/region-1-newsroom/press-releases/sale-of-former-navy-chapel-and-community-center-09192018",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/small-business-opportunities",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/careers-region-10-northwestarctic",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/key-contacts",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/key-contacts/fas-regional-commissioner-tiffany-hixson",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/key-contacts/pbs-regional-commissioner-lisa-pearson",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/key-contacts/public-buildings-service-pbs-contacts",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/key-contacts/regional-administrator-sukhee-kang",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/outreach-to-the-community",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/sustainability-posters",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/about-region-10/welcome-message",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/buildings-and-facilities",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/buildings-and-facilities/alaska",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/buildings-and-facilities/alaska/alcan-land-port-of-entry",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/buildings-and-facilities/alaska/photo-gallery",
+    "score": 0
+  },
+  {
+    "path": "/about-us/regions/region-10-northwest-arctic/buildings-and-facilities/idaho",
+    "score": 0
+  }
+]
