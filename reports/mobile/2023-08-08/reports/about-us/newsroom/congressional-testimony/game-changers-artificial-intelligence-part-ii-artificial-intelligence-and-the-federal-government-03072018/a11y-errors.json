@@ -1,0 +1,77 @@
+[
+  {
+    "id": "duplicate-id-active",
+    "title": "`[id]` attributes on active, focusable elements are not unique",
+    "description": "All focusable elements must have a unique `id` to ensure that they're visible to assistive technologies. [Learn more](https://web.dev/duplicate-id-active/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-432-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,21,P,1,A",
+            "selector": "div#gsa-body > div.desktop:grid-col > p > a#externalLink",
+            "boundingRect": {
+              "top": 4896,
+              "bottom": 4916,
+              "left": 170,
+              "right": 220,
+              "width": 50,
+              "height": 20
+            },
+            "snippet": "<a href=\"https://www.fbo.gov/\" id=\"externalLink\">",
+            "nodeLabel": "fbo.gov",
+            "explanation": "Fix any of the following:\n  Document has active elements with the same id attribute: externalLink"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-433-A",
+                  "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,22,P,1,A",
+                  "selector": "div#gsa-body > div.desktop:grid-col > p > a#externalLink",
+                  "boundingRect": {
+                    "top": 5193,
+                    "bottom": 5213,
+                    "left": 284,
+                    "right": 349,
+                    "width": 66,
+                    "height": 20
+                  },
+                  "snippet": "<a href=\"https://cloud.gov/\" id=\"externalLink\">",
+                  "nodeLabel": "cloud.gov"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.parsing",
+          "wcag2a",
+          "wcag411"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

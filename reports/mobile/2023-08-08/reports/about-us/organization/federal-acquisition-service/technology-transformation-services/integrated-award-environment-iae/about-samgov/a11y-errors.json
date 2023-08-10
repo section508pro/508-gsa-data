@@ -1,0 +1,784 @@
+[
+  {
+    "id": "aria-allowed-attr",
+    "title": "`[aria-*]` attributes do not match their roles",
+    "description": "Each ARIA `role` supports a specific subset of `aria-*` attributes. Mismatching these invalidates the `aria-*` attributes. [Learn more](https://web.dev/aria-allowed-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-592-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,2,DIV,0,DIV",
+            "selector": "nav.usa-nav > div.usa-nav__inner > div.region > div.usa-nav__primary",
+            "boundingRect": {
+              "top": 5733,
+              "bottom": 9535,
+              "left": 8,
+              "right": 404,
+              "width": 396,
+              "height": 3802
+            },
+            "snippet": "<div class=\"usa-nav__primary usa-nav__primary-mobile usa-accordion usa-accordion--mult…\" aria-multiselectable=\"true\">",
+            "nodeLabel": "Buy Through Us expand menu\nGovernment Property for Sale or Disposal expand menu…",
+            "explanation": "Fix any of the following:\n  ARIA attribute is not allowed: aria-multiselectable=\"true\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "aria-required-children",
+    "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+    "description": "Some ARIA parent roles must contain specific child roles to perform their intended accessibility functions. [Learn more](https://web.dev/aria-required-children/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-593-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,0,LI,1,DIV",
+            "selector": "div.nav-collapse > ul.tb-megamenu-nav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 248,
+              "bottom": 1326,
+              "left": 48,
+              "right": 404,
+              "width": 356,
+              "height": 1078
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Government Property for Sale or Disposal\nPersonal Property (Tangible Goods)\nRea…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-594-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,0,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 266,
+              "bottom": 359,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 93
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Personal Property (Tangible Goods)\nReal Property (Real Estate & Buildings) for …",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-595-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,0,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 377,
+              "bottom": 544,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 167
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Facilities & Construction\nHuman Capital\nIndustrial Products & Services\nInformat…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-596-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,0,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 562,
+              "bottom": 803,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 241
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Multiple Award Schedule\nSmartPay (Charge Card Services)\nAssisted Acquisition\nCo…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-597-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,0,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,3,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 821,
+              "bottom": 1166,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 345
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Charge Cards & Payments (SmartPay)\nDisposal of Excess Property\nFleet Management…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-598-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,1,LI,1,DIV",
+            "selector": "div.nav-collapse > ul.tb-megamenu-nav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 1344,
+              "bottom": 1855,
+              "left": 48,
+              "right": 404,
+              "width": 356,
+              "height": 511
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Step 1: Learn About Government Contracting\nWays You Can Sell to Government\nHow …",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-599-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,1,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 1363,
+              "bottom": 1418,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 56
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Ways You Can Sell to Government\nHow to Access Contract Opportunities\nConduct Ma…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-600-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,1,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 1437,
+              "bottom": 1566,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 130
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Register Your Business\nCertify as a Small Business\nBecome a Schedule Holder\nMar…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-601-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,1,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 1585,
+              "bottom": 1640,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 56
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Comply with Contractual Requirements\nHandle Contract Modifications\nMonitor Past…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-602-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,2,LI,1,DIV",
+            "selector": "div.nav-collapse > ul.tb-megamenu-nav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 1874,
+              "bottom": 2774,
+              "left": 48,
+              "right": 404,
+              "width": 356,
+              "height": 900
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Design & Construction\n3D-4D Building Information Modeling\nArt in Architecture |…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-603-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,2,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 1892,
+              "bottom": 2040,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 148
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "3D-4D Building Information Modeling\nArt in Architecture | Fine Arts\nComputer-Ai…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-604-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,2,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 2059,
+              "bottom": 2151,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 93
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Facilities Operations\nSecurity\nSmart Buildings\nTenant Services\nUtility Services",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-605-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,2,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 2170,
+              "bottom": 2281,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 111
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Explore Historic Buildings\nHeritage Tourism\nHistoric Preservation Policy, Tools…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-606-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,2,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,4,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 2318,
+              "bottom": 2429,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 111
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Courthouse Program\nLand Ports of Entry\nProspectus Library\nRegional Buildings\nRe…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-607-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,2,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,5,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 2447,
+              "bottom": 2595,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 148
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Leasing\nReal Property Disposal\nReimbursable Services (RWA)\nRental Policy & Proc…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-608-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,3,LI,1,DIV",
+            "selector": "div.nav-collapse > ul.tb-megamenu-nav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 2792,
+              "bottom": 3211,
+              "left": 48,
+              "right": 404,
+              "width": 356,
+              "height": 419
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Policy\nAcquisition Management Policy\nAviation Management Policy\nInformation Tec…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-609-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,3,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 2811,
+              "bottom": 2940,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 130
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Acquisition Management Policy\nAviation Management Policy\nInformation Technology…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-610-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,3,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 2959,
+              "bottom": 3051,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 93
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Federal Acquisition Regulations\nFederal Management Regulations\nFederal Travel R…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-611-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,4,LI,1,DIV",
+            "selector": "div.nav-collapse > ul.tb-megamenu-nav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 3230,
+              "bottom": 3556,
+              "left": 48,
+              "right": 404,
+              "width": 356,
+              "height": 326
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Register Your Business\nExplore Business Models\nResearch the Federal Market\nFore…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-612-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,4,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 3248,
+              "bottom": 3285,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 37
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Explore Business Models\nResearch the Federal Market",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-613-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,4,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 3322,
+              "bottom": 3378,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 56
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Events & Contacts\nTraining\nVideos",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-614-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,5,LI,1,DIV",
+            "selector": "div.nav-collapse > ul.tb-megamenu-nav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 3574,
+              "bottom": 4012,
+              "left": 48,
+              "right": 404,
+              "width": 356,
+              "height": 437
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Plan & Book\nPer Diem Rates\nTransportation (Airfare Rates, POV Rates, etc.)\nLodg…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-615-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,5,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 3593,
+              "bottom": 3722,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 130
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Per Diem Rates\nTransportation (Airfare Rates, POV Rates, etc.)\nLodging\nState Ta…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-616-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,5,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 3741,
+              "bottom": 3778,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 37
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "E-Gov Travel Service (ETS)\nTravel Category Schedule",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-617-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,6,LI,1,DIV",
+            "selector": "div.nav-collapse > ul.tb-megamenu-nav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 4030,
+              "bottom": 4708,
+              "left": 48,
+              "right": 404,
+              "width": 356,
+              "height": 678
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Products & Services\nCloud Computing Services\nCybersecurity Products & Services\n…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-618-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,6,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,0,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 4049,
+              "bottom": 4197,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 148
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Cloud Computing Services\nCybersecurity Products & Services\nData Center Services…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-619-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,6,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 4215,
+              "bottom": 4308,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 93
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Governmentwide Acquisition Contracts\nMAS Information Technology\nSoftware Purcha…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-620-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,6,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 4326,
+              "bottom": 4493,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 167
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "18F\nCybersecurity\nDigital Strategy\nEmerging Citizen Technology\nFedRAMP\nFederal …",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-621-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,7,LI,1,DIV",
+            "selector": "div.nav-collapse > ul.tb-megamenu-nav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 4727,
+              "bottom": 5645,
+              "left": 48,
+              "right": 404,
+              "width": 356,
+              "height": 918
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Annual Reports\nBackground & History\nOverview\nMission & Strategic Goals\nRole in …",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-622-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,7,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,1,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 4764,
+              "bottom": 4819,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 56
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Overview\nMission & Strategic Goals\nRole in Presidential Transitions",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-623-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,7,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,2,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 4838,
+              "bottom": 4930,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 93
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Why Work at GSA\nWho We Are Seeking\nWhere Our Jobs Are\nHow to Apply\nHiring Proce…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-624-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,7,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,4,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 4967,
+              "bottom": 5078,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 111
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Agency Blog\nCongressional Testimony\nGSA Does That Podcast\nNews Releases\nSpeeche…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-625-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,7,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,5,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 5097,
+              "bottom": 5245,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 148
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Leadership Directory\nStaff Directory\nOffice of the Administrator\nFederal Acquis…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-626-DIV",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,UL,7,LI,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,UL,6,LI,1,DIV",
+            "selector": "div.tb-megamenu-column-inner > ul.tb-megamenu-subnav > li.tb-megamenu-item > div.tb-megamenu-submenu",
+            "boundingRect": {
+              "top": 5263,
+              "bottom": 5467,
+              "left": 88,
+              "right": 404,
+              "width": 316,
+              "height": 204
+            },
+            "snippet": "<div class=\"tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child\" data-class=\"\" data-width=\"\" role=\"list\">",
+            "nodeLabel": "Region 1 | New England\nRegion 2 | Northeast & Caribbean\nRegion 3 | Mid-Atlantic…",
+            "explanation": "Fix any of the following:\n  Required ARIA children role not present: group, listitem"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 34
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-627-H3",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,9,H3",
+            "selector": "div.node-content > div#gsa-body > div.desktop:grid-col > h3",
+            "boundingRect": {
+              "top": 10864,
+              "bottom": 10886,
+              "left": 8,
+              "right": 404,
+              "width": 396,
+              "height": 22
+            },
+            "snippet": "<h3>",
+            "nodeLabel": "Share Your Thoughts",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "id": "aria-valid-attr",
+    "title": "`[aria-*]` attributes are not valid or misspelled",
+    "description": "Assistive technologies, like screen readers, can't interpret ARIA attributes with invalid names. [Learn more](https://web.dev/aria-valid-attr/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-460-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,1,DIV,0,A",
+            "selector": "div.desktop:grid-col > div#contact-groups_wrapper > div#contact-groups_paginate > a#contact-groups_previous",
+            "boundingRect": {
+              "top": 1756,
+              "bottom": 1793,
+              "left": 50,
+              "right": 132,
+              "width": 82,
+              "height": 38
+            },
+            "snippet": "<a class=\"paginate_button previous disabled\" aria-controls=\"contact-groups\" aria-disabled=\"true\" aria-role=\"link\" data-dt-idx=\"previous\" tabindex=\"-1\" id=\"contact-groups_previous\">",
+            "nodeLabel": "Previous",
+            "explanation": "Fix any of the following:\n  Invalid ARIA attribute name: aria-role"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-461-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,1,DIV,1,SPAN,0,A",
+            "selector": "div#contact-groups_wrapper > div#contact-groups_paginate > span > a.paginate_button",
+            "boundingRect": {
+              "top": 1756,
+              "bottom": 1793,
+              "left": 132,
+              "right": 164,
+              "width": 32,
+              "height": 38
+            },
+            "snippet": "<a class=\"paginate_button current\" aria-controls=\"contact-groups\" aria-role=\"link\" aria-current=\"page\" data-dt-idx=\"0\" tabindex=\"0\">",
+            "nodeLabel": "1",
+            "explanation": "Fix any of the following:\n  Invalid ARIA attribute name: aria-role"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-462-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,1,DIV,1,SPAN,1,A",
+            "selector": "div#contact-groups_wrapper > div#contact-groups_paginate > span > a.paginate_button",
+            "boundingRect": {
+              "top": 1756,
+              "bottom": 1793,
+              "left": 164,
+              "right": 196,
+              "width": 32,
+              "height": 38
+            },
+            "snippet": "<a class=\"paginate_button \" aria-controls=\"contact-groups\" aria-role=\"link\" data-dt-idx=\"1\" tabindex=\"0\">",
+            "nodeLabel": "2",
+            "explanation": "Fix any of the following:\n  Invalid ARIA attribute name: aria-role"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-463-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,1,DIV,1,SPAN,2,A",
+            "selector": "div#contact-groups_wrapper > div#contact-groups_paginate > span > a.paginate_button",
+            "boundingRect": {
+              "top": 1756,
+              "bottom": 1793,
+              "left": 196,
+              "right": 228,
+              "width": 32,
+              "height": 38
+            },
+            "snippet": "<a class=\"paginate_button \" aria-controls=\"contact-groups\" aria-role=\"link\" data-dt-idx=\"2\" tabindex=\"0\">",
+            "nodeLabel": "3",
+            "explanation": "Fix any of the following:\n  Invalid ARIA attribute name: aria-role"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-464-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,1,DIV,1,SPAN,3,A",
+            "selector": "div#contact-groups_wrapper > div#contact-groups_paginate > span > a.paginate_button",
+            "boundingRect": {
+              "top": 1756,
+              "bottom": 1793,
+              "left": 228,
+              "right": 261,
+              "width": 32,
+              "height": 38
+            },
+            "snippet": "<a class=\"paginate_button \" aria-controls=\"contact-groups\" aria-role=\"link\" data-dt-idx=\"3\" tabindex=\"0\">",
+            "nodeLabel": "4",
+            "explanation": "Fix any of the following:\n  Invalid ARIA attribute name: aria-role"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-465-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,1,DIV,1,SPAN,4,A",
+            "selector": "div#contact-groups_wrapper > div#contact-groups_paginate > span > a.paginate_button",
+            "boundingRect": {
+              "top": 1756,
+              "bottom": 1793,
+              "left": 261,
+              "right": 293,
+              "width": 32,
+              "height": 38
+            },
+            "snippet": "<a class=\"paginate_button \" aria-controls=\"contact-groups\" aria-role=\"link\" data-dt-idx=\"4\" tabindex=\"0\">",
+            "nodeLabel": "5",
+            "explanation": "Fix any of the following:\n  Invalid ARIA attribute name: aria-role"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-466-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,1,DIV,1,SPAN,6,A",
+            "selector": "div#contact-groups_wrapper > div#contact-groups_paginate > span > a.paginate_button",
+            "boundingRect": {
+              "top": 1756,
+              "bottom": 1793,
+              "left": 340,
+              "right": 372,
+              "width": 32,
+              "height": 38
+            },
+            "snippet": "<a class=\"paginate_button \" aria-controls=\"contact-groups\" aria-role=\"link\" data-dt-idx=\"8\" tabindex=\"0\">",
+            "nodeLabel": "9",
+            "explanation": "Fix any of the following:\n  Invalid ARIA attribute name: aria-role"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-467-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,2,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,6,DIV,1,DIV,2,A",
+            "selector": "div.desktop:grid-col > div#contact-groups_wrapper > div#contact-groups_paginate > a#contact-groups_next",
+            "boundingRect": {
+              "top": 1793,
+              "bottom": 1831,
+              "left": 184,
+              "right": 238,
+              "width": 55,
+              "height": 38
+            },
+            "snippet": "<a class=\"paginate_button next\" aria-controls=\"contact-groups\" aria-role=\"link\" data-dt-idx=\"next\" tabindex=\"0\" id=\"contact-groups_next\">",
+            "nodeLabel": "Next",
+            "explanation": "Fix any of the following:\n  Invalid ARIA attribute name: aria-role"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag412"
+        ]
+      }
+    },
+    "errorCount": 8
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-578-H3",
+            "path": "1,HTML,1,BODY,2,DIV,4,FOOTER,0,DIV,0,DIV,0,DIV,0,DIV,0,NAV,0,DIV,0,H3",
+            "selector": "div.tablet:grid-col-12 > nav.usa-footer__nav > div.region > h3.usa-footer__primary-link",
+            "boundingRect": {
+              "top": 1942,
+              "bottom": 1993,
+              "left": 0,
+              "right": 412,
+              "width": 412,
+              "height": 51
+            },
+            "snippet": "<h3 class=\"usa-footer__primary-link\">",
+            "nodeLabel": "Home",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "duplicate-id-active",
+    "title": "`[id]` attributes on active, focusable elements are not unique",
+    "description": "All focusable elements must have a unique `id` to ensure that they're visible to assistive technologies. [Learn more](https://web.dev/duplicate-id-active/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-432-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,10,P,6,A",
+            "selector": "div#gsa-body > div.desktop:grid-col > p > a#externalLink",
+            "boundingRect": {
+              "top": 1687,
+              "bottom": 1707,
+              "left": 236,
+              "right": 295,
+              "width": 59,
+              "height": 20
+            },
+            "snippet": "<a href=\"http://twitter.com/USGSA\" id=\"externalLink\">",
+            "nodeLabel": "@USGSA",
+            "explanation": "Fix any of the following:\n  Document has active elements with the same id attribute: externalLink"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-433-A",
+                  "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,10,P,8,A",
+                  "selector": "div#gsa-body > div.desktop:grid-col > p > a#externalLink",
+                  "boundingRect": {
+                    "top": 1687,
+                    "bottom": 1707,
+                    "left": 302,
+                    "right": 381,
+                    "width": 79,
+                    "height": 20
+                  },
+                  "snippet": "<a href=\"https://twitter.com/GSAEmily\" id=\"externalLink\">",
+                  "nodeLabel": "@GSAEmily"
+                }
+              },
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-434-A",
+                  "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,10,P,10,A",
+                  "selector": "div#gsa-body > div.desktop:grid-col > p > a#externalLink",
+                  "boundingRect": {
+                    "top": 1712,
+                    "bottom": 1732,
+                    "left": 44,
+                    "right": 129,
+                    "width": 85,
+                    "height": 20
+                  },
+                  "snippet": "<a href=\"https://twitter.com/@US_GSAR6\" id=\"externalLink\">",
+                  "nodeLabel": "@US_GSAR6"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.parsing",
+          "wcag2a",
+          "wcag411"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-541-H3",
+            "path": "1,HTML,1,BODY,2,DIV,4,FOOTER,0,DIV,0,DIV,0,DIV,0,DIV,0,NAV,0,DIV,0,H3",
+            "selector": "div.tablet:grid-col-12 > nav.usa-footer__nav > div.region > h3.usa-footer__primary-link",
+            "boundingRect": {
+              "top": 1956,
+              "bottom": 2006,
+              "left": 0,
+              "right": 412,
+              "width": 412,
+              "height": 51
+            },
+            "snippet": "<h3 class=\"usa-footer__primary-link\">",
+            "nodeLabel": "Home",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
