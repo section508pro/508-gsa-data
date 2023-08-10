@@ -1,1 +1,10 @@
-{}
+{
+  "heading-order": 36,
+  "aria-required-children": 34,
+  "aria-valid-attr": 12,
+  "aria-roles": 3,
+  "aria-allowed-attr": 2,
+  "duplicate-id-aria": 1,
+  "button-name": 1,
+  "duplicate-id-active": 1
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "heading-order": 90,
+  "aria-valid-attr": 15,
+  "frame-title": 5,
+  "aria-allowed-attr": 4,
+  "aria-roles": 3,
+  "link-name": 2,
+  "duplicate-id-aria": 1,
+  "duplicate-id-active": 1
+}

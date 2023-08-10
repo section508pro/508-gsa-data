@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.94,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.93
+  },
+  {
+    "path": "/about-us",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/careers-at-gsa",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/careers-at-gsa/how-to-apply",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/careers-at-gsa/where-are-our-jobs",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/careers-at-gsa/who-are-we-seeking",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/careers-at-gsa/who-are-we-seeking/students-and-recent-grads",
+    "score": 0.89,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/contact-us",
+    "score": 0.88,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.67,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/contact-us/area-property-officers",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/contact-us/customer-service-directors",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.81
+  },
+  {
+    "path": "/about-us/contact-us/environmental",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/contact-us/leasing",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/contact-us/property-management-operations",
+    "score": 0.89,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.75,
+    "seo": 0.81
+  },
+  {
+    "path": "/about-us/contact-us/regional-emergency-coordinators",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.81
+  },
+  {
+    "path": "/about-us/contact-us/regional-urban-development-officers",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.8
+  },
+  {
+    "path": "/about-us/contact-us/small-business-support",
+    "score": 0.89,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.75,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/events-and-training",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-events",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-events/gsa-participation-in-events/case-events",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-events/gsa-regions",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.91,
+    "best-practices": 0.83,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/2023-fas-industry-partner-symposium",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/acquiring-it-solutions-resource-page",
+    "score": 0.79,
+    "performance": 0.64,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/archive-of-fast-2022-resources",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/build-a-futureready-workforce-resource-page",
+    "score": 0.81,
+    "performance": 0.65,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/building-a-future-ready-government-resource-page",
+    "score": 0.77,
+    "performance": 0.59,
+    "accessibility": 1,
+    "best-practices": 0.67,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/fast-overview/emergency-preparedness-resource-page",
+    "score": 0.82,
+    "performance": 0.68,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/acquisition-training-for-the-real-world",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/client-enrichment-series",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/contracts-acquisition-training",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/fleet-management-training",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-federal-employees/technology-management-training/gsas-digitalgov-university",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/events-and-training/gsa-training-programs/training-for-vendors/how-to-get-on-schedule",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/mission-and-background",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/mission-and-background/background",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/mission-and-background/gsas-role-in-presidential-transitions",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/mission-and-background/our-missions-evolution",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.94,
+    "best-practices": 0.83,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/federal-it-reform-hearing-05082014",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/game-changers-artificial-intelligence-part-ii-artificial-intelligence-and-the-federal-government-03072018",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/gsa-fy2019-budget-request-04172018",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/independent-leasing-authoritiesincreasing-oversight-and-reducing-costs-of-space-leased-by-federal-agencies-07062016",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/supplemental-oversight-small-business-administration-and-general-services-administration-11292017",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/transparency-and-fairness-in-acquisition-02262009",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/us-gsa-acquisition-oversight-and-reform-07122017-1",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/congressional-testimony/working-collaboratively-to-address-challenges-12202011",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast",
+    "score": 0.91,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.94,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-0-launch-trailer-05262023",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-1-civic-tech-05302023",
+    "score": 0.88,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-2-technologists-in-action-06132023",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-3-gsa-and-small-business-contracting-06272023",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-4-green-proving-ground-07112023",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-5-the-future-workforce-07252023",
+    "score": 0.88,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/episodes/episode-6-the-future-of-work-08082023",
+    "score": 0.88,
+    "performance": 0.91,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/listen-to-the-gsa-does-that-podcast/learn-about-the-podcast",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/courthouse-environmental-assessment-nears-completi-06072017",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-announces-actions-to-advance-equity-and-supplier-diversity-in-federal-procurement-04182022",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-announces-cancellation-of-fast-2020-03122020",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-appoints-channing-ansley-grate-deputy-associate-administrator-for-media-affairs-and-rebecca-barnes-executive-assistant-to-the-office-of-administrator-08132021",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-city-pair-program-saves-billions-for-federal-agencies-07232017",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-launches-first-biennial-construction-awards-05182023",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-receives-red-hat-2016-innovation-award-07072016",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/news-releases/gsa-scores-top-grade-in-small-business-07292021",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/photo-galleries",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/newsroom/rss-feeds",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/remarks-at-ronald-reagan-building-and-internationa",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.94,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/administrator-carnahans-remarks-as-prepared-for-north-americas-building-trades-unions-in-washington-dc-04262023",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/administrator-robin-carnahan-remarks-at-coalition-for-government-procurement-fall-training-conference-11182021",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/gsa-administrator-robin-carnahan-delivers-oral-testimony-to-house-transportation-and-infrastructure-committee-11022021",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/opening-remarks-by-us-general-services-administrator-emily-murphy-december-12-2017-12122017",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/remarks-for-administrator-robin-carnahan-denver-federal-center-tour-41322-04152022",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/speech-on-smart-cities-counties-ii-beyond-the-hype-where-innovation-rules-by-denise-roth-03142016",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/speech-to-information-technology-industry-council-federal-executive-council-by-denise-roth-04082016",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/speeches/speeches-by-the-administrator/the-fruit-of-the-spirit-dedication-feb-17-2022-philadelphia-02172022",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/newsroom/technology-blogs",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/organization/congressional-intergovernmental-affairs",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/customer-marketing-library-service-cmls",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/customer-service-directors",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/fy-2022-fas-industry-satisfaction-survey-iss",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/fy-2022-federal-acquisition-service-fas-customer",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/market-research-as-a-service-mras",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/marketing-to-the-federal-government",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/national-account-managers-nams",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/regional-customer-stakeholder-engagement-dirs",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/fall-2019-release",
+    "score": 0.89,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/fall-2020-release",
+    "score": 0.89,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/fall-2021-release",
+    "score": 0.88,
+    "performance": 0.92,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/fmp-2020-retro",
+    "score": 0.88,
+    "performance": 0.91,
+    "accessibility": 0.99,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release/fmp-strategy-summer-2019-release-highlights",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release/improvements-to-the-acquisition-workforce-experience",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release/improvements-to-the-customer-experience",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.75
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2019-release/improvements-to-the-supplier-experience",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.76
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2020-release",
+    "score": 0.89,
+    "performance": 0.93,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/summer-2021-release",
+    "score": 0.89,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/winter-2020-release",
+    "score": 0.87,
+    "performance": 0.88,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/federal-marketplace-fmp-strategy-releases/winter-2021-release",
+    "score": 0.88,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/fmp-for-buyers",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/fmp-for-suppliers",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-initiatives/federal-marketplace-strategy/fmp-project-improvements",
+    "score": 0.8,
+    "performance": 0.58,
+    "accessibility": 0.99,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/fas-leadership-team",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/office-of-general-supplies-and-services",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/18f",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/connect-with-us",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.82
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/erulemaking",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/about-samgov",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.81
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/information-about-fbo-transition",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/samgov-by-the-numbers",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/samgov-transition-to-betasamgov",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/uei-technical-specifications-and-api-information",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/unique-entity-id-is-here",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.79
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-information-kit/unique-entity-identifier-update",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/iae-systems-modernization",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/integrated-award-environment-iae/the-iae-systems",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/the-centers-of-excellence",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/the-presidential-innovation-fellows",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-impact-summit",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-impact-summit/tts-impact-summit-resources-and-materials",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-us/organization/federal-acquisition-service/technology-transformation-services/tts-solutions",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/acting-chief-human-capital-officer",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/administrator",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/associate-administrator-osdbu",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/chair-civilian-board-of-contract-appeal",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/chief-of-staff",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/commissioner-federal-acquisition-service",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/deputy-administrator",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/leadership-directory/inspector-general",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-administrative-services",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-customer-experience",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-governmentwide-policy/office-of-the-procurement-ombudsman",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-human-resources-management",
+    "score": 0.89,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-mission-assurance",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-strategic-communication",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-the-administrator/administrator",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-the-administrator/past-administrators",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-the-chief-financial-officer",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/office-of-the-general-counsel-overview",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/account-management-program/pbs-national-customer-leads",
+    "score": 0.9,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.75,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/client-outreach",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/pbs-customer-dashboard",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/pbs-customer-forums",
+    "score": 0.9,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.79
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-customer-engagement/regional-client-solutions",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/organization/public-buildings-service/office-of-portfolio-mgmt-customer-engagement/office-of-portfolio-management",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions",
+    "score": 0.89,
+    "performance": 1,
+    "accessibility": 0.91,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england",
+    "score": 0.87,
+    "performance": 0.8,
+    "accessibility": 0.98,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.81
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1/key-contacts",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1/leadership-biographies",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1/sustainability-in-action",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/about-region-1/welcome-message",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/abraham-a-ribicoff-federal-building-and-us-cour",
+    "score": 0.91,
+    "performance": 0.98,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/brien-mcmahon-federal-building-and-us-courthouse",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/richard-c-lee-courthouse",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/robert-n-giaimo-federal-building",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/connecticut/william-r-cotter-federal-building",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/calais-ferry-land-port-of-entry-maine",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/coburn-gore-land-port-of-entry-maine",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 0.98,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/fort-fairfield-land-port-of-entry-maine",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/houlton-land-port-of-entry-maine",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.96,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/limestone-land-port-of-entry-maine",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.98,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/madawaska-me-land-port-of-entry",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/sieverssandberg-us-army-reserve-center",
+    "score": 0.89,
+    "performance": 0.88,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/development-projects/volpe-center",
+    "score": 0.87,
+    "performance": 0.87,
+    "accessibility": 0.92,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine",
+    "score": 0.91,
+    "performance": 0.99,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine/edmund-s-muskie-federal-building",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine/edward-t-gignoux-us-courthouse",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine/margaret-chase-smith-federal-building-and-courthou",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/maine/us-custom-house-portland",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts",
+    "score": 0.92,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/captain-john-f-williams-coast-guard-building",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/harold-d-donohue-federal-building-and-us-courth",
+    "score": 0.92,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/john-f-kennedy-federal-building",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/john-joseph-moakley-us-courthouse",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/john-w-mccormack-post-office-and-courthouse",
+    "score": 0.91,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/thomas-p-oneill-jr-federal-building",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/us-courthouse-springfield",
+    "score": 0.92,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/massachusetts/us-custom-house-new-bedford",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/new-hampshire",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.83
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/new-hampshire/james-c-cleveland-federal-building-and-warren-b",
+    "score": 0.91,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/new-hampshire/norris-cotton-federal-building",
+    "score": 0.91,
+    "performance": 0.97,
+    "accessibility": 1,
+    "best-practices": 0.83,
+    "seo": 0.86
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/region-one-facilities-status",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.84
+  },
+  {
+    "path": "/about-us/regions/region-1-new-england/buildings-and-facilities/rhode-island",
+    "score": 0.91,
+    "performance": 1,
+    "accessibility": 0.99,
+    "best-practices": 0.83,
+    "seo": 0.83
+  }
+]
