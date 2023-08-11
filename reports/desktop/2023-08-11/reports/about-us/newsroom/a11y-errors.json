@@ -1,0 +1,77 @@
+[
+  {
+    "id": "duplicate-id-aria",
+    "title": "ARIA IDs are not unique",
+    "description": "The value of an ARIA ID must be unique to prevent other instances from being overlooked by assistive technologies. [Learn more](https://web.dev/duplicate-id-aria/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-578-INPUT",
+            "path": "1,HTML,1,BODY,2,DIV,2,HEADER,2,NAV,1,DIV,1,DIV,0,DIV,0,DIV,0,SECTION,0,FORM,0,DIV,3,INPUT",
+            "selector": "section > form.usa-search > div.usa-form-group > input#query",
+            "boundingRect": {
+              "top": 51,
+              "bottom": 83,
+              "left": 1095,
+              "right": 1275,
+              "width": 180,
+              "height": 32
+            },
+            "snippet": "<input class=\"usa-input\" id=\"query\" type=\"search\" name=\"query\" placeholder=\"Search GSA.gov\" required=\"required\">",
+            "nodeLabel": "section > form.usa-search > div.usa-form-group > input#query",
+            "explanation": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: query"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-580-INPUT",
+                  "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,3,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,FORM,0,DIV,0,DIV,2,INPUT",
+                  "selector": "form#search_form > div.grid-row > div.grid-col-auto > input#query",
+                  "boundingRect": {
+                    "top": 355,
+                    "bottom": 395,
+                    "left": 895,
+                    "right": 1114,
+                    "width": 219,
+                    "height": 40
+                  },
+                  "snippet": "<input aria-autocomplete=\"list\" aria-haspopup=\"true\" autocomplete=\"off\" class=\"usagov-search-autocomplete ui-autocomplete-input fsrVisible\" id=\"query\" name=\"query\" placeholder=\"Search Newsroom\" role=\"textbox\" type=\"text\">",
+                  "nodeLabel": "form#search_form > div.grid-row > div.grid-col-auto > input#query"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.parsing",
+          "wcag2a",
+          "wcag411"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
