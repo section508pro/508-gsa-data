@@ -1,0 +1,108 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-548-H3",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,TABLE,0,TBODY,0,TR,0,TD,2,DIV,0,DIV,0,H3",
+            "selector": "td.jb-splash-holder > div.jb-splash > div.jb-splash-info > h3",
+            "boundingRect": {
+              "top": 787,
+              "bottom": 970,
+              "left": 32,
+              "right": 380,
+              "width": 348,
+              "height": 183
+            },
+            "snippet": "<h3 style=\"\">",
+            "nodeLabel": "CIO Council Women in Tech Conference - Photos from CIO Council Women in Tech Co…",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "image-alt",
+    "title": "Image elements do not have `[alt]` attributes",
+    "description": "Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute. [Learn more](https://web.dev/image-alt/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-549-IMG",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,2,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,TABLE,0,TBODY,0,TR,0,TD,0,IMG",
+            "selector": "tbody > tr > td.jb-splash-holder > img",
+            "boundingRect": {
+              "top": 466,
+              "bottom": 1066,
+              "left": -596,
+              "right": 1008,
+              "width": 1604,
+              "height": 600
+            },
+            "snippet": "<img src=\"https://www.gsa.gov/system/files/styles/juicebox_medium/private/4105281434…\" style=\"position: absolute; left: -612px; top: 0px; width: auto; height: 600px;\">",
+            "nodeLabel": "tbody > tr > td.jb-splash-holder > img",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag111",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]

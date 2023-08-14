@@ -1,0 +1,128 @@
+[
+  {
+    "id": "duplicate-id-active",
+    "title": "`[id]` attributes on active, focusable elements are not unique",
+    "description": "All focusable elements must have a unique `id` to ensure that they're visible to assistive technologies. [Learn more](https://web.dev/duplicate-id-active/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-432-A",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,5,P,1,A",
+            "selector": "div#gsa-body > div.desktop:grid-col > p > a#externalLink",
+            "boundingRect": {
+              "top": 1016,
+              "bottom": 1062,
+              "left": 16,
+              "right": 367,
+              "width": 351,
+              "height": 46
+            },
+            "snippet": "<a href=\"https://www.fbo.gov/index?s=opportunity\" id=\"externalLink\">",
+            "nodeLabel": "Alliant 2 FBO.gov site",
+            "explanation": "Fix any of the following:\n  Document has active elements with the same id attribute: externalLink"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-433-A",
+                  "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,ARTICLE,0,DIV,1,DIV,0,DIV,9,P,2,A",
+                  "selector": "div#gsa-body > div.desktop:grid-col > p > a#externalLink",
+                  "boundingRect": {
+                    "top": 2002,
+                    "bottom": 2047,
+                    "left": 16,
+                    "right": 347,
+                    "width": 331,
+                    "height": 46
+                  },
+                  "snippet": "<a href=\"https://interact.gsa.gov/group/alliant-2-a2-and-alliant-2-small-business-a…\" id=\"externalLink\">",
+                  "nodeLabel": "GSA’s Alliant 2 Interact page"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.parsing",
+          "wcag2a",
+          "wcag411"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-545-H3",
+            "path": "1,HTML,1,BODY,2,DIV,4,FOOTER,0,DIV,0,DIV,0,DIV,0,DIV,0,NAV,0,DIV,0,H3",
+            "selector": "div.tablet:grid-col-12 > nav.usa-footer__nav > div.region > h3.usa-footer__primary-link",
+            "boundingRect": {
+              "top": 2431,
+              "bottom": 2482,
+              "left": 0,
+              "right": 412,
+              "width": 412,
+              "height": 51
+            },
+            "snippet": "<h3 class=\"usa-footer__primary-link\">",
+            "nodeLabel": "Home",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
