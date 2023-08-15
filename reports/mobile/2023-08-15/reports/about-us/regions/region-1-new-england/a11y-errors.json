@@ -1,0 +1,77 @@
+[
+  {
+    "id": "color-contrast",
+    "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "description": "Low-contrast text is difficult or impossible for many users to read. [Learn more](https://web.dev/color-contrast/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-570-H1",
+            "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,H1",
+            "selector": "div.grid-col-fill > div.mobile-region-banner > div.grid-container > h1",
+            "boundingRect": {
+              "top": 196,
+              "bottom": 229,
+              "left": 16,
+              "right": 396,
+              "width": 380,
+              "height": 33
+            },
+            "snippet": "<h1>",
+            "nodeLabel": "REGION 1 | NEW ENGLAND",
+            "explanation": "Fix any of the following:\n  Element has insufficient color contrast of 1.85 between the foreground and shadow color (foreground color: #ffffff, text-shadow color: #bcbfc3, font size: 21.6pt (28.8px), font weight: bold). Expected contrast ratio of 3:1"
+          },
+          "subItems": {
+            "type": "subitems",
+            "items": [
+              {
+                "relatedNode": {
+                  "type": "node",
+                  "lhId": "9-571-DIV",
+                  "path": "1,HTML,1,BODY,2,DIV,3,MAIN,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+                  "selector": "div#gsa-body > div.paragraph > div.grid-col-fill > div.mobile-region-banner",
+                  "boundingRect": {
+                    "top": 107,
+                    "bottom": 376,
+                    "left": 0,
+                    "right": 412,
+                    "width": 412,
+                    "height": 269
+                  },
+                  "snippet": "<div class=\"mobile-region-banner page-banner\">",
+                  "nodeLabel": "REGION 1 | NEW ENGLAND\n\nThe New England Region provides federal agencies with s…"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
